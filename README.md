@@ -1,3 +1,3 @@
 # Validation
 
-A validation library for .NET which is context aware
+A validation library for .NET which is context aware.
